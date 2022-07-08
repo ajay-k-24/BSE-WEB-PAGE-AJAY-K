@@ -1,9 +1,9 @@
 ﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+I am working on a gmailbox. My gmailbox is a mailbox that searches for new and unread emails. When it finds new emails it will raise the flag of the mailbox using a servo motor. This could be very useful for students who get emails all the time.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Ajay Kosaraju |Town School For Boys| Mechanical Engineering/ Coding| incoming 7th grader
 
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
   
