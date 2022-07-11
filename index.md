@@ -19,6 +19,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was setting up the arduino editor, and the gmail trigger with adafruit io. I did this by going to zapier and setting a gmail trigger to connect to gmail.
+My first milestone was setting up the arduino editor, and the gmail trigger with adafruit io. I did this by going to zapier and setting a gmail trigger to connect to gmail. I then ran several tests to make sure that the trigger worked, by sending multiple emails to myself. I got some error messages but eventually, it worked.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ma9xcj7Ukk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
