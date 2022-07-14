@@ -13,12 +13,12 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://youtu.be/Ma9xcj7Ukk0"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second milestone was connecting the servo motor to the gmail feed, and installing it in the box. Now, when you get an email, the servo motor will go up, signifing unread mail. I complete the box, I cut off the backside, and then I hot glued the servo motor to the underside of the box. I then screwed in the led screen, that will eventually show the number of unread emails, Finally I hot glued paper onto the box so I could draw on it. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UXgaGvdHS5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-# First Milestone
-  
+<iframe width="600" height="315" src="https://www.youtube.com/embed/UXgaGvdHS5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ 
+ # First Milestone
+ My first milestone was setting up the arduino editor, and the gmail trigger with adafruit io. I did this by going to zapier and setting a gmail trigger to connect to gmail. I then ran several tests to make sure that the trigger worked, by sending multiple emails to myself. I got some error messages but eventually, it worked.
 
-My first milestone was setting up the arduino editor, and the gmail trigger with adafruit io. I did this by going to zapier and setting a gmail trigger to connect to gmail. I then ran several tests to make sure that the trigger worked, by sending multiple emails to myself. I got some error messages but eventually, it worked.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ma9xcj7Ukk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="315" src="https://www.youtube.com/embed/Ma9xcj7Ukk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
