@@ -1,5 +1,5 @@
-﻿#Gmailbox!
-I am working on a gmailbox. My gmailbox is a mailbox that searches for new and unread emails. When it finds new emails it will raise the flag of the mailbox using a servo motor. This could be very useful for students who get emails all the time.
+﻿
+Hi my name is Ajay, and I am working on a gmailbox. This is a smart mailbox that searches for new and unread emails. When it finds new emails it will raise the flag of the mailbox using a servo motor. This could be very useful for students who get emails all the time.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
