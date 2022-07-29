@@ -5,7 +5,6 @@ Hi my name is Ajay, and I am working on a gmailbox. This is a smart mailbox that
 |:--:|:--:|:--:|:--:|
 | Ajay K |Town School For Boys| Mechanical Engineering/ Coding| Incoming 7th grader
 
-![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
   
 # Final Milestone
 My final milestone was adding all the modifications. I added an LCD screen that shows the number of unread emails, and I added a led light that blinks when there are unread emails. One thing I will work on after camp is getting the led light to turn off using a button. 
